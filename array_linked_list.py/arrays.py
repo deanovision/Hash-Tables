@@ -92,8 +92,8 @@ def array_print(array):
         string += str(array.elements[i])
         if i < array.count - 1:
             string += ", "
-            string += "]"
-            print(string)            ​
+    string += "]"
+    print(string)            ​
 
 
 # # Testing
